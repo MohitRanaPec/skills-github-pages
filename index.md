@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Mohit Rana 
 ---
+Hi, This is my first attempt of writing a blog.
